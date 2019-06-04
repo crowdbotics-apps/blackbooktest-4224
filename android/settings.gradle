@@ -1,0 +1,3 @@
+rootProject.name = 'blackbooktest_4224'
+
+include ':app'
